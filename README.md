@@ -1,3 +1,3 @@
 # Best_Calendar
 
- this Calender work in computers properly, but may not work properly in phones.
+ this Calender will work in computers properly, but may not work properly in phones.
